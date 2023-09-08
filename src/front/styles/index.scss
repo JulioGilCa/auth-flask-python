@@ -1,0 +1,17 @@
+/* 
+    General Styles used on every website (Don't Repeat Yourself)
+*/
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  background-color: rgb(46, 46, 46);
+  border-top: 2px solid rgb(180, 180, 180);
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  color: white;
+  font-size: 25px;
+}
